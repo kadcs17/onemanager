@@ -1,8 +1,8 @@
 
 // odd, 单日
-const SingleDay = 'https://aaa1.herokuapp.com'
+const SingleDay = 'https://drive.kadcs.eu.org'
 // even, 双日
-const DoubleDay = 'https://bbb2.herokuapp.com'
+const DoubleDay = 'https://drive.kadcs.eu.org'
 
 //const SingleDay = 'https://153xxxxx0.cn-hongkong.fc.aliyuncs.com/2016-08-15/proxy/onedrive/xxx/'
 //const DoubleDay = 'https://153xxxxx0.cn-hongkong.fc.aliyuncs.com/2016-08-15/proxy/onedrive/xxx/'
